@@ -1,2 +1,2 @@
 # Python-Fundamentos
-Python Fundamentos para Análise de Dados
+Repositório do Curso Python Fundamentos para Análise de Dados
